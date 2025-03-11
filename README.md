@@ -1,4 +1,7 @@
+# LearningWithSpringBoot
+
 # Spring Boot Clean Architecture Template
+
 
 Bu proje, modern bir Spring Boot uygulaması için hazırlanmış, Clean Architecture prensiplerine uygun olarak tasarlanmış kapsamlı bir şablon projedir. Clean Architecture'ın temel prensipleri olan bağımlılık kuralları ve katmanlar arası soyutlama göz önünde bulundurularak yapılandırılmıştır.
 
