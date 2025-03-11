@@ -188,5 +188,4 @@ jwt.expiration=86400000
 ## 📝 Lisans
 
 Bu proje MIT lisansı ile lisanslanmıştır. Daha fazla bilgi için [LICENSE](LICENSE) dosyasına bakabilirsiniz.
-```   
 
