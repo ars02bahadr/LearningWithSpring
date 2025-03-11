@@ -181,6 +181,3 @@ jwt.expiration=86400000
 - [MapStruct Dokümantasyonu](https://mapstruct.org/documentation/stable/reference/html/)
 - [JUnit 5 User Guide](https://junit.org/junit5/docs/current/user-guide/)
 
-## 📝 Lisans
-
-Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için [LICENSE](LICENSE) dosyasına bakın.
